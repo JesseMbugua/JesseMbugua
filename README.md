@@ -1,14 +1,14 @@
 # Hi, I'm [Jesse] 👋
 
-[I'm an aspiring developer]
+I'm an aspiring developer
 
 ## 🔭 Current Projects
-- [Youtube clone]
+- Youtube clone
 
 ## 🌱 I'm currently learning
-- [html and css]
-- [javascript]
-- [java]
+- html and css
+- javascript
+- java
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseMbugua&layout=compact)
