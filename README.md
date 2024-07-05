@@ -1,6 +1,6 @@
-# Hi, I'm [Jesse] 👋
+# Hi, I'm Jesse 👋
 
-I'm an aspiring developer
+-I'm an aspiring developer
 
 ## 🔭 Current Projects
 - Youtube clone
