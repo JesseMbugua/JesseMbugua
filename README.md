@@ -3,9 +3,11 @@
 I'm an aspiring developer
 
 ## 🌱 I'm currently learning
-- HTML and CSS
 - JavaScript
 - Java
+
+## 💼 Skills
+- Html and CSS
 
 ## 🔭 Current Projects
 - YouTube clone
