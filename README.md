@@ -10,7 +10,7 @@ I'm an aspiring developer
 - Html and CSS
 
 ## 🔭 Current Projects
-- YouTube clone
+- cafe website
 
 ## 📊 GitHub Activity
 
