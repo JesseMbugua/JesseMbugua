@@ -6,9 +6,8 @@ I'm an aspiring developer
 - JavaScript
 - Java
 
-## 💼 Skills
+## 💼 Mastered Skills
 - Html and CSS
-- javascript
 
 ## 📊 GitHub Activity
 
