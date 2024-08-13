@@ -8,9 +8,7 @@ I'm an aspiring developer
 
 ## 💼 Skills
 - Html and CSS
-
-## 🔭 Current Projects
-- cafe website
+- javascript
 
 ## 📊 GitHub Activity
 
