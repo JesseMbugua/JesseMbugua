@@ -2,13 +2,6 @@
 
 I'm an aspiring developer
 
-## 🌱 I'm currently learning
-- JavaScript
-- Java
-
-## 💼 Mastered Skills
-- Html and CSS
-
 ## 📊 GitHub Activity
 
 ### Overall GitHub Statistics
