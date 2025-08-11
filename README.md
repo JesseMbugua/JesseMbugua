@@ -1,4 +1,6 @@
-# Hi, I'm Jesse 👋
+# Hi, I'm Jesse Mbugua 👋
 
-I'm an aspiring developer currently studying in strathmore university
-Currently learning rust
+I am a software development student at Strathmore University with a passion for building elegant and effective solutions. I am currently expanding my skills by learning **Rust**.
+
+- 🔭 I’m currently working on sharpening my backend development skills.
+- 🌱 I’m currently learning **Rust** and exploring its ecosystem.
