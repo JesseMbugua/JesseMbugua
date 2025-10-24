@@ -1,6 +1,6 @@
 # Hi, I'm Jesse Mbugua 👋
 
-I am a software development student at Strathmore University. I am currently expanding my skills by learning **Rust**.
+I am a software development student at Strathmore University. I am currently expanding my skills.
 
-- 🔭 I’m currently working on sharpening my backend development skills.
-- 🌱 I’m currently learning **Rust** and exploring its ecosystem.
+- 🔭 I’m currently working on sharpening my cybersecurity skills
+- 🌱 I’m currently learning **python** and exploring its uses in cybersecurity.
