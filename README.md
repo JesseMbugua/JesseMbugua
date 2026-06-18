@@ -39,8 +39,8 @@ I am a backend developer and security engineer passionate about building high-pe
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [LinkedIn](https://linkedin.com) *(Update with your link)*
-- 📧 **Direct Contact:** [Email](mailto:your.email@example.com) *(Update with your link)*
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/jesse-mbugua-733a37336/)
+- 📧 **Direct Contact:** [Email](Jessembugua456@gmail.com) 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
