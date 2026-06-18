@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend+Engineer+%7C+Security+Researcher&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Student+%7C+Backend+Developer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 # Hi there, I'm Jesse Mbugua 👋
 
-I am a backend developer and security engineer passionate about building high-performance, resilient server-side architectures and auditing systems for critical vulnerabilities. I specialize in designing scalable systems, exploring low-level systems security, and engineering proactive defense mechanisms to safeguard modern infrastructure.
+I am a backend developer and computer science student focused on building clean, efficient server-side applications. I enjoy solving architectural problems, working with data structures, and learning how to secure systems from the ground up.
 
-- 🔭 **Current Focus:** Developing **GoSentinel**, a Go-based runtime security daemon for Docker environments leveraging eBPF for real-time threat detection and kernel-level visibility.
-- 🌱 **Learning & Exploration:** Diving deeper into detection engineering, cloud-native security mechanics, and advanced systems programming.
-- ⚡ **Core Interests:** Backend Systems Engineering, Cloud Security, Linux Kernel Observers (eBPF), and Cryptography.
+- 🔭 **Current Focus:** Building **GoSentinel**, an open-source, Go-based runtime security daemon designed to monitor container environments.
+- 🌱 **Learning & Exploration:** Diving deep into the **Go** ecosystem, concurrency patterns, backend systems design, and foundational cloud security concepts.
+- ⚡ **Core Interests:** Backend Engineering, Linux Systems, and Security Engineering.
 
 ---
 
@@ -40,7 +40,7 @@ I am a backend developer and security engineer passionate about building high-pe
 ## Connect With Me
 
 - 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/jesse-mbugua-733a37336/)
-- 📧 **Direct Contact:** [Email](Jessembugua456@gmail.com) 
+- 📧 **Direct Contact:** [Email](mailto:Jessembugua456@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
